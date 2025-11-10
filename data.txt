@@ -1,0 +1,4 @@
+Total Sales: 2200
+Average Sales: 366.67
+Sales Over Limit (500): 2
+Sales Under Limit (500): 4
